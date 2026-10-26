@@ -40,9 +40,9 @@ nav:
   - Arquitectura e Infraestructura:
       - Arquitectura e infraestructura: INFRASTRUCTURE.md
       - Guía de configuración: GETTING_STARTED.md
-  - ADR:
-      - 0001 - Microsoft Entra ID y MSAL: adr/0001-entra-id-app-roles.md
-      - 0002 - React + Vite SPA: adr/0002-monolito-modular-eventos.md
-      - 0003 - Rutas protegidas y autorización: adr/0003-react-vite-spa-frontend.md
-      - 0004 - Despliegue de frontend estático: adr/0004-persistencia-poliglota-sql-nosql.md
-      - 0005 - Configuración por entorno y variables VITE_: adr/0005-manejo-de-entornos-ejecucion.md
+      - ADR:
+          - 0001 - Microsoft Entra ID y MSAL: adr/0001-entra-id-app-roles.md
+          - 0002 - React + Vite SPA: adr/0002-monolito-modular-eventos.md
+          - 0003 - Rutas protegidas y autorización: adr/0003-react-vite-spa-frontend.md
+          - 0004 - Despliegue de frontend estático: adr/0004-persistencia-poliglota-sql-nosql.md
+          - 0005 - Configuración por entorno y variables VITE_: adr/0005-manejo-de-entornos-ejecucion.md
